@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c36ae28fea7b9a4cc02145632e2f41469af2e7b38b801903abb8333d3306f36b"
+            "sha256": "800bf848a4521e331a5a5607a566318dc68e6163191c5689412a55c1fb757c8f"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -31,6 +31,22 @@
             ],
             "index": "pypi",
             "version": "==4.0.5"
+        },
+        "django-jalali": {
+            "hashes": [
+                "sha256:793d61c013f31f4b81e513e73c3cc13b018ecdc44ea10dfb9789bd55d406750a",
+                "sha256:795fabc2d9a3db93de843d00b1cf931b3bd40e5fa4532c386d1772abb69f6d9e"
+            ],
+            "index": "pypi",
+            "version": "==6.0.0"
+        },
+        "jdatetime": {
+            "hashes": [
+                "sha256:085d367fa7a61d287e621c1b23456dc624b47c4825e79032b6be59aed0ad6d53",
+                "sha256:4a67a82ee57e35b5f6f9f7fbe6a0eda63f56ce1dd8af409b4c2a26a3340457db"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==4.1.0"
         },
         "sqlparse": {
             "hashes": [

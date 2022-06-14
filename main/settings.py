@@ -41,6 +41,8 @@ INSTALLED_APPS = [
 ]
 
 AUTH_USER_MODEL = "accounting.CustomUser"
+USE_THOUSAND_SEPARATOR = True
+USE_L10N = True
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
